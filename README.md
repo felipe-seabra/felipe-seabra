@@ -6,7 +6,7 @@
 
 #### About Me
 
-I'm Felipe, born in Presidente Prudente (SP), I have approximately 10 years of experience (as an IT Infrastructure Analyst) working in several areas of technology in education at Colégio Criete
+I'm Felipe, born in Presidente Prudente (SP), I have approximately 10 years of experience (as an IT Infrastructure Analyst) working in several areas of technology in education.
 
 I am currently a full-stack web development student at [Trybe](https://www.betrybe.com/). My passions are: learning new things, coding, playing games, animals and looking for things to fix!
 
