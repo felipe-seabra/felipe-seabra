@@ -1,6 +1,7 @@
 ### Hi there, I'm Felipe Seabra
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-seabra)
+[![](https://img.shields.io/badge/felipe-seabra.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](http://felipe-seabra.github.io/) 
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rocefelipe/)
 
 
