@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe Seabra</h1>
-<h3 align="center">I am currently a full-stack web development student at [Trybe](https://www.betrybe.com/). <br>
+<h3 align="center">I am currently a full-stack web development student at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. <br>
 I have approximately 10 years of experience (as an IT Infrastructure Analyst) working in several areas of technology in education.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-seabra&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-seabra" /> </p>
