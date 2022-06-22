@@ -1,4 +1,4 @@
-### Hi there, I'm Felipe Seabra
+### Olá there, Eu sou o Felipe Seabra
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-seabra)
 [![](https://img.shields.io/badge/felipeseabra.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](http://felipe-seabra.github.io/) 
