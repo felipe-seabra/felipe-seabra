@@ -3,6 +3,7 @@
 Tenho aproximadamente 10 anos de experiência (como Analista de Infraestrutura de TI) atuando em diversas áreas de tecnologia em educação.</h3>
 
 <br>
+
 -   👨‍💻 Todos os meus projetos estão disponíveis aqui: &nbsp; &nbsp; [![](https://img.shields.io/badge/github.io-181717?style=for-the-badge&logo=github&logoColor=white)](http://felipe-seabra.github.io/)
 
 <h3 align="left">Me encontre aqui:</h3>
