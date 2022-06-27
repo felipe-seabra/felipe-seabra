@@ -12,7 +12,7 @@ Tenho aproximadamente 10 anos de experiência (como Analista de Infraestrutura d
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-seabra" height="30" width="40" />
     </a> &nbsp;
     <a href="https://instagram.com/rocefelipe" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rocefelipe" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipe.seabra" height="30" width="40" />
     </a>
 </p>
 
