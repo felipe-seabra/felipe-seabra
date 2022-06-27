@@ -1,4 +1,5 @@
 <h1 align="center">Olá 👋, Sou o Felipe Seabra</h1>
+
 <h3 align="center">Atualmente, sou estudante de desenvolvimento web full-stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. <br> <br>
 Tenho aproximadamente 10 anos de experiência (como Analista de Infraestrutura de TI) atuando em diversas áreas de tecnologia em educação.</h3>
 
@@ -62,6 +63,17 @@ Tenho aproximadamente 10 anos de experiência (como Analista de Infraestrutura d
     </a> &nbsp;
 </p>
 
+##
+
+<div align="center">
+  <a href="https://github.com/felipe-seabra">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipe-seabra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-seabra&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+##
+
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-seabra&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-seabra" /> </p>
+
