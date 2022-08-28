@@ -1,18 +1,18 @@
-<h1 align="center">Olá 👋, Sou o Felipe Seabra</h1>
+<h1 align="center">Olá 👋, Sou o Felipe Seabra!</h1>
 
 <h3 align="center">Atualmente, sou estudante de desenvolvimento web full-stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. <br> <br>
-Tenho aproximadamente 10 anos de experiência (como Analista de Infraestrutura de TI) atuando em diversas áreas de tecnologia em educação.</h3>
+Tenho aproximadamente 10 anos de experiência atuando em diversas áreas de tecnologia em educação.</h3>
 
 <br>
 
-- 👨‍💻 Todos os meus projetos estão disponíveis aqui: &nbsp; &nbsp; [![](https://img.shields.io/badge/github.io-181717?style=for-the-badge&logo=github&logoColor=white)](http://felipe-seabra.github.io/)
+- 👨‍💻 Todos os meus projetos estarão disponíveis aqui: &nbsp; &nbsp; [![](https://img.shields.io/badge/github.io-181717?style=for-the-badge&logo=github&logoColor=white)](http://felipe-seabra.github.io/)
 
 <h3 align="left">Me encontre aqui:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/felipe-seabra" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Link do linkedin" height="30" width="40" />
     </a> &nbsp;
-    <a href="https://www.instagram.com/felipeseabradev/" target="blank">
+    <a href="https://www.instagram.com/felipeseabra_//" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Link do instagram" height="30" width="40" />
     </a>
 </p>
