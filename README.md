@@ -5,7 +5,7 @@ Tenho aproximadamente 10 anos de experiência atuando em diversas áreas de tecn
 
 <br>
 
-- 👨‍💻 Todos os meus projetos estarão disponíveis <a href="https://felipeseabra.vercel.app/ target="blank"">aqui</a>
+- 👨‍💻 Todos os meus projetos estarão disponíveis <a href="https://felipeseabra.vercel.app/" target="blank">aqui</a>
 
 <h3 align="left">Me encontre aqui:</h3>
 <p align="left">
