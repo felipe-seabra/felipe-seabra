@@ -12,7 +12,7 @@ Tenho aproximadamente 10 anos de experiência atuando em diversas áreas de tecn
     <a href="https://linkedin.com/in/felipe-seabra" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Link do linkedin" height="30" width="40" />
     </a> &nbsp;
-    <a href="https://www.instagram.com/felipeseabra_//" target="blank">
+    <a href="https://www.instagram.com/felipeseabra_/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Link do instagram" height="30" width="40" />
     </a>
 </p>
