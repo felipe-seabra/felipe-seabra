@@ -72,7 +72,9 @@ Tenho aproximadamente 10 anos de experiência atuando em diversas áreas de tecn
 </div>
 
 ##
-
+    
+![Snake animation](https://github.com/felipe-seabra/felipe-seabra/blob/output/github-contribution-grid-snake.svg)
+    
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-seabra&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-seabra" /> </p>
