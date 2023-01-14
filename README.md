@@ -69,8 +69,8 @@ Tenho aproximadamente 10 anos de experiência atuando em diversas áreas de tecn
 
 <div align="center">
   <a href="https://github.com/felipe-seabra">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipe-seabra&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-seabra&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipe-seabra&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-seabra&layout=compact&theme=radical"/>
 </div>
 
 ##
