@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Sou o Felipe Seabra!</h1>
 
-<p align="center">Estudante de Desenvolvimento Web Full-Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, com mais de 10 anos de experiência em tecnologia, buscando aprimorar minhas habilidades e conhecimentos para me tornar um profissional mais capacitado.</p>
+<h3 align="center">Estudante de Desenvolvimento Web Full-Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, com mais de 10 anos de experiência em tecnologia, buscando aprimorar minhas habilidades e conhecimentos para me tornar um profissional mais capacitado.</h3>
 
 <br>
 
