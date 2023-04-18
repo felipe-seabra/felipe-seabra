@@ -4,10 +4,10 @@ Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/)
 
 
 - 👨‍💻 Meus projetos estarão disponíveis no meu site 
-> [![Safari][Safari-card]][Safari-url]
+> [![WebSite][WebSite-card]][WebSite-url]
 
-[Safari-card]: https://img.shields.io/static/v1?style=for-the-badge&message=Safari&color=000000&logo=Safari&logoColor=FFFFFF&label=
-[Safari-url]: https://felipeseabra.dev.br/
+[WebSite-card]: https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=000000&logo=Safari&logoColor=FFFFFF&label=
+[WebSite-url]: https://felipeseabra.dev.br/
 
 
 ## Me encontre aqui:
