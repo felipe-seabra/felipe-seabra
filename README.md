@@ -40,6 +40,7 @@ Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/)
 [![Sequelize][Sequelize]][Sequelize-url]
 [![RTL][RTL]][RTL-url]
 [![Jest][Jest]][Jest-url]
+[![macOS][macOS]][macOS-url]
 [![Linux][Linux]][Linux-url]
 [![Windows][Windows]][Windows-url]
 [![postgres][postgres]][postgres-url]
@@ -92,6 +93,9 @@ Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/)
 
 [Jest]: https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white
 [Jest-url]: https://jestjs.io/pt-BR/
+
+[macOS]: https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=
+[macOS-url]: https://www.apple.com/br/
 
 [Linux]: https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white
 [Linux-url]: https://www.linux.org
