@@ -23,7 +23,7 @@ Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/)
 [Instagram-url]: https://www.instagram.com/felipeseabra_/
 
 [Mail-card]: https://img.shields.io/static/v1?style=for-the-badge&message=Mail&color=005FF9&logo=Mail.Ru&logoColor=FFFFFF&label=
-[Mail-url]: contato@felipeseabra.dev.br
+[Mail-url]: mailto:contato@felipeseabra.dev.br
 
 
 ## Linguagens e ferramentas:
