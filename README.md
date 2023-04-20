@@ -1,9 +1,9 @@
 # Olá 👋, Sou o Felipe Seabra!
 
-Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/), com mais de 10 anos de experiência em tecnologia, buscando aprimorar minhas habilidades e conhecimentos para me tornar um profissional mais capacitado.
+>Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/), com mais de 10 anos de experiência em tecnologia, buscando aprimorar minhas habilidades e conhecimentos para me tornar um profissional mais capacitado.
 
 
-- 👨‍💻 Meus projetos estarão disponíveis no meu site 
+## Meus projetos estarão disponíveis no meu site 👨‍💻
 > [![WebSite][WebSite-card]][WebSite-url]
 
 [WebSite-card]: https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=000000&logo=Safari&logoColor=FFFFFF&label=
