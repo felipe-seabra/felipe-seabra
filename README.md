@@ -1,6 +1,6 @@
 # Olá 👋, Sou o Felipe Seabra!
 
->Estudante de Desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/), com mais de 10 anos de experiência em tecnologia, buscando aprimorar minhas habilidades e conhecimentos para me tornar um profissional mais capacitado.
+>Com 10 anos de experiência em tecnologia educacional, sou Desenvolvedor Web Full-Stack com paixão pelo Front-End. Sou adaptável e me mantenho atualizado com as últimas tecnologias e tendências. Estou aberto a aprender e me desenvolver em outras áreas também.
 
 
 ## Meus projetos estarão disponíveis no meu site 👨‍💻
