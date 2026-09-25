@@ -1,49 +1,46 @@
 # Felipe Seabra
 
-**Junior Full-Stack Developer | Frontend-focused**
+**Full-Stack Developer · Frontend-focused**
 
-Dublin, Ireland
+I build modern web applications with **React, Next.js and TypeScript**, with a strong focus on frontend architecture, usability and clean interfaces.
 
-I am a Full-Stack Developer with a strong focus on Frontend development, building modern web applications with React, Next.js and TypeScript.
+My work combines frontend development, backend integration and product thinking, with experience building production applications for real businesses.
 
-I have a background in technology, marketing and education, including hands-on experience building and maintaining production web applications for real businesses.
+## Tech Stack
 
-## What I work with
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,nodejs,supabase,postgres,docker,git,github,vercel,figma" />
+</p>
 
-- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
-- **Backend:** Node.js, APIs, Supabase, PostgreSQL
-- **Forms & validation:** React Hook Form, Zod
-- **UI & interaction:** shadcn/ui, Radix UI, Framer Motion
-- **Tools:** Git, GitHub, Docker, Vercel, Postman
-- **Testing:** Vitest, React Testing Library
+## Featured Projects
 
-## Selected work
+### 🚗 Avalia Prudente
+Reputation-as-a-Service platform focused on local businesses, reviews and customer interactions.
 
-### Avalia Prudente
-Reputation and review platform built with Next.js, React, TypeScript and Supabase.
+**Next.js · React · TypeScript · Supabase · PostgreSQL · Tailwind CSS**
 
-Focus areas include authentication, multi-tenant architecture, RBAC/RLS, moderation, analytics, SEO and performance.
+### 🛣️ Well na Estrada
+Modern web application built with a focus on conversion, user experience and a production-ready frontend architecture.
 
-**Stack:** Next.js · React · TypeScript · Supabase · PostgreSQL · Tailwind CSS
+**Next.js · TypeScript · React · Tailwind CSS · Supabase**
 
-### Well na Estrada
-Production web application developed with Next.js, TypeScript, Tailwind CSS and Supabase.
+### 🛒 Production Projects
+I have also developed production applications for businesses in areas such as e-commerce, education and local services.
 
-**Stack:** Next.js · TypeScript · React · Tailwind CSS · Supabase
+Some projects remain private because they contain proprietary code.
 
-### Production projects
-I have also worked on production applications for real businesses, including e-commerce, education and local business platforms.
+## Development
 
-Some projects are kept private because they contain proprietary code.
+<table><tr><td><strong>Frontend</strong></td><td>React · Next.js · TypeScript · Tailwind CSS</td></tr><tr><td><strong>Backend</strong></td><td>Node.js · Supabase · PostgreSQL · APIs</td></tr><tr><td><strong>Architecture</strong></td><td>Server Components · Server Actions · REST · RLS</td></tr><tr><td><strong>UI/UX</strong></td><td>Responsive UI · Accessibility · UX · Framer Motion</td></tr><tr><td><strong>Tools</strong></td><td>Git · GitHub · Docker · Vercel · Postman</td></tr></table>
 
-## Background
+## Let's Connect
 
-Before moving into web development, I worked across technology infrastructure, marketing and education. This experience gave me a practical understanding of business requirements, users, communication and digital products.
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-seabra/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://felipeseabra.dev.br/"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
 
-I am currently based in **Dublin, Ireland** and looking for opportunities as a **Junior Frontend or Full-Stack Developer**.
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/felipe-seabra/)
-- [Portfolio](https://felipeseabra.dev.br/)
-- [GitHub](https://github.com/felipe-seabra)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipe-seabra&show_icons=true&hide_border=true&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-seabra&layout=compact&hide_border=true&theme=transparent" height="160" />
+</p>
